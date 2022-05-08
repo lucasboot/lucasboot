@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Figueredo</h1>
-<h3 align="center">A passionate developer from Brazil</h3>
+<h3 align="center">A developer from Brazil :nerd_face:</h3>
 
 - 🔭 I’m currently working on [WebDev_Course](https://github.com/lucasboot/WebDev_Course)
 
