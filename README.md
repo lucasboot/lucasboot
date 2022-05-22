@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Lucas Figueredo</h1>
 <h3 align="center">A developer from Brazil :nerd_face:</h3>
 
-- 🔭 I’m currently working on [WebDev_Course](https://github.com/lucasboot/WebDev_Course)
+- 🔭 I’m currently working on [WebDev_Course](https://github.com/lucasboot/WebDev_Course) and [Avanade Decola Tech](https://github.com/lucasboot/DecolaTech3a)
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **VueJS** and **React Native**
 
 - 📫 How to reach me **varela.alves@outlook.com**
 
