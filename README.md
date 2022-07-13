@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Figueredo</h1>
 <h3 align="center">A developer from Brazil :nerd_face:</h3>
 
-- 🔭 I’m currently working on [Start by Capgemini](https://github.com/lucasboot/Capgemini_Start)
+- 🔭 I’m currently working as a developer at [Capgemini](https://www.capgemini.com/)
 
 - 🌱 I’m currently learning **Angular**, **Spring** and **Sass**
 
