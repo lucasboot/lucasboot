@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/)
 
-- 🌱 I’m currently devepoling these skills: **Azure AI/ML, MongoDB and PySpark**
+- 🌱 I’m currently developing these skills: **Azure AI/ML, MongoDB and PySpark**
 
-- 💬 Ask me about **python, node.js, ai/ml, sql/nosql and clean code**
+- 💬 Ask me about **Python, Node.js, AI/ML, SQL/NoSQL and Clean Code**
 
 - 📫 How to reach me **varela.alves@outlook.com**
 
