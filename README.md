@@ -1,7 +1,7 @@
 <h1 align="center">Greetings 👋, I'm Lucas Alves</h1>
 <h3 align="center">A developer and ML/AI engineer from Brazil :nerd_face: :frog:</h3>
 
-- 🔭 I’m currently working at [Capgemini](https://www.capgemini.com/)
+- 🔭 I’m currently working at [Alura](https://www.alura.com.br/)
 
 - 🌱 I’m currently developing these skills: **Azure AI/ML, MongoDB and PySpark**
 
