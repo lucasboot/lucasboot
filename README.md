@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Python, Node.js, AI/ML, SQL/NoSQL and Clean Code**
 
-- 📫 How to reach me **varela.alves@outlook.com**
+- 📫 How to reach me **lucasfvarelaalves@gmail.com**
 
 - ⚡ Fun fact **I think frogs are really cute**
 
