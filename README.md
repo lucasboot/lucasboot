@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently developing these skills: **Azure AI/ML, MongoDB and PySpark**
 
-- 💬 Ask me about **Python, Node.js, AI/ML, SQL/NoSQL and Clean Code**
+- 💬 Ask me about **Python, Node.js, AI/ML, SQL/NoSQL**
 
 - 📫 How to reach me **lucasfvarelaalves@gmail.com**
 
